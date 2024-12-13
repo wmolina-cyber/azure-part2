@@ -7,7 +7,7 @@ In Part 2 of this lab, I observed ICMP traffic between my Azure Virtual Machines
 - Connect to my Windows 10 Virtual Machine using Remote Desktop.
 - Install and use Wireshark to capture network traffic.
 - Observe and filter ICMP traffic.
-- Ping the Ubuntu VM and a public website from the Windows 10 VM.
+- Ping the Ubuntu VM from the Windows 10 VM.
 
 ---
 
