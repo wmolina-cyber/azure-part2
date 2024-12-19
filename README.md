@@ -50,5 +50,5 @@ In Part 2 of this lab, I observed ICMP traffic between my Azure Virtual Machines
 ![33](https://github.com/user-attachments/assets/01f643fb-4655-4a99-8faa-8dfd93343ff1)
 
 ---
-## Conclusion
-This concludes Part 2 of the Azure Computing and Networking Lab. In this segment, I successfully connected to my virtual machine, utilized Wireshark to analyze ICMP traffic, and gained insights into network behavior within Azure's virtual network environment.
+## Future part
+This concludes Part 2 of the Azure Computing and Networking Lab. In this segment, I successfully connected to my virtual machine, utilized Wireshark to analyze ICMP traffic, and gained insights into network behavior within Azure's virtual network environment. In the next lab, I'll observe and analyze different types of network traffic such as SSH, DHCP, DNS, and RDP using Wireshark.
